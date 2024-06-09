@@ -1,1 +1,1 @@
-
+Regresión logística para predecir si una persona sufrirá Diabetes o no en función de los datos de sus análisis de sangre.
